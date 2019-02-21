@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:2:1-109:12
+	package
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:4:5-56
+		INJECTED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:10:22-73
+application
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:12:5-107:19
+MERGED from [com.android.support:design:24.2.1] C:\Users\Pavan\.android\build-cache\8d6405c54ea433de3b556c9bf9885ed66650d3fa\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Pavan\.android\build-cache\dbd849eadfbe16521bbd4a1ae12974e13c2f4e1e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Pavan\.android\build-cache\8280744a5df7ab0441676a670e7e3b35ee1e74f3\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Pavan\.android\build-cache\7840b6003c9ef299b8ac4f8a7d161fe28909cd24\output\AndroidManifest.xml:23:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\Pavan\.android\build-cache\b834fb9e777572d96b9550524b8271245fb98bf3\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\Pavan\.android\build-cache\1b7999ad21b150147db45d82d71d7adfe283069d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Pavan\.android\build-cache\22ed04143d90e994e1eba8dabe3467fa40dd6dc6\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Pavan\.android\build-cache\b98cf18fc9af77b98e8116548a5fe5752d248cc9\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Pavan\.android\build-cache\19dd92586803cf9ffc3ce402c998e02c3ef8bc1c\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Pavan\.android\build-cache\e1ac718549b2cf2f3acc94970dab926c25a8dfe7\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Pavan\.android\build-cache\a13c232490b35f00e7466521fef195b66e00df78\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Pavan\.android\build-cache\b704ea3d40aaae48f49f7684e8aa659dbaf341f7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Pavan\.android\build-cache\88dacea26395bf1b8acddc4030bab47d9e0b16f3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Pavan\.android\build-cache\8096667697990dddf8c32938bf9dcee2123199b6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Pavan\.android\build-cache\1985b698155fb189c04f773161fcc74b6424c54b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Pavan\.android\build-cache\38af52c33b01fb2f1d29de9f1419327f64ec29b8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Pavan\.android\build-cache\e7a3f3170cb5353e2e7fdd78cebf5f823b301cb9\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:16:9-35
+	tools:ignore
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:18:9-60
+	android:allowBackup
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:17:9-40
+activity#vesitlibrary.pavankumar.camp.VESITLibrary.WelcomeActivity
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:19:9-30:20
+	android:screenOrientation
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:22:13-45
+	android:configChanges
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:21:13-48
+	android:theme
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:24:13-44
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:20:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:28:27-74
+activity#vesitlibrary.pavankumar.camp.VESITLibrary.SplashScreenActivity
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:31:9-42:20
+	android:screenOrientation
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:34:13-45
+	android:configChanges
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:33:13-48
+	android:theme
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:32:13-49
+activity#vesitlibrary.pavankumar.camp.VESITLibrary.MainActivity
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:43:9-54:20
+	android:screenOrientation
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:47:13-49
+	android:label
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:46:13-45
+	android:configChanges
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:45:13-48
+	android:theme
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:44:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:49:13-53:29
+category#android.intent.category.DEFAULT
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:52:27-73
+activity#vesitlibrary.pavankumar.camp.VESITLibrary.LoginActivity
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:55:9-59:57
+	android:screenOrientation
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:57:13-49
+	android:windowSoftInputMode
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:59:13-54
+	android:theme
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:56:13-42
+activity#vesitlibrary.pavankumar.camp.VESITLibrary.BookDisplayActivity
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:60:9-63:57
+	android:screenOrientation
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:62:13-49
+	android:windowSoftInputMode
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:63:13-54
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:61:13-48
+activity#vesitlibrary.pavankumar.camp.VESITLibrary.UserActivity
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:64:9-67:52
+	android:screenOrientation
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:67:13-49
+	android:parentActivityName
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:66:13-55
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:65:13-41
+activity#vesitlibrary.pavankumar.camp.VESITLibrary.TabbookActivity
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:68:9-72:57
+	android:screenOrientation
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:71:13-49
+	android:parentActivityName
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:70:13-55
+	android:windowSoftInputMode
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:72:13-54
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:69:13-44
+meta-data#com.google.android.gms.version
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:77:9-79:69
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Pavan\.android\build-cache\a13c232490b35f00e7466521fef195b66e00df78\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:79:13-66
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:78:13-58
+activity#vesitlibrary.pavankumar.camp.VESITLibrary.BookDisplayInstruActivity
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:80:9-83:57
+	android:screenOrientation
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:82:13-49
+	android:parentActivityName
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:81:13-55
+	android:windowSoftInputMode
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:83:13-54
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:80:19-60
+activity#vesitlibrary.pavankumar.camp.VESITLibrary.BookDisplayItActivity
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:85:9-88:57
+	android:screenOrientation
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:87:13-49
+	android:parentActivityName
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:86:13-55
+	android:windowSoftInputMode
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:88:13-54
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:85:19-56
+activity#vesitlibrary.pavankumar.camp.VESITLibrary.BookDisplayCompsActivity
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:90:9-93:57
+	android:screenOrientation
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:92:13-49
+	android:parentActivityName
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:91:13-55
+	android:windowSoftInputMode
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:93:13-54
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:90:19-59
+activity#vesitlibrary.pavankumar.camp.VESITLibrary.BookDisplayEtrxActivity
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:95:9-98:57
+	android:screenOrientation
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:97:13-49
+	android:parentActivityName
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:96:13-55
+	android:windowSoftInputMode
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:98:13-54
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:95:19-58
+activity#vesitlibrary.pavankumar.camp.VESITLibrary.BookDisplayExtcActivity
+ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:100:9-105:20
+	android:screenOrientation
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:102:13-49
+	android:parentActivityName
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:101:13-55
+	android:windowSoftInputMode
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:103:13-54
+	android:name
+		ADDED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml:100:19-58
+uses-sdk
+INJECTED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] C:\Users\Pavan\.android\build-cache\8d6405c54ea433de3b556c9bf9885ed66650d3fa\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Pavan\.android\build-cache\dbd849eadfbe16521bbd4a1ae12974e13c2f4e1e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Pavan\.android\build-cache\8280744a5df7ab0441676a670e7e3b35ee1e74f3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Pavan\.android\build-cache\7840b6003c9ef299b8ac4f8a7d161fe28909cd24\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Pavan\.android\build-cache\e2247a8a07d0835f9216e2ae320012621139948d\output\AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\Pavan\.android\build-cache\b834fb9e777572d96b9550524b8271245fb98bf3\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\Pavan\.android\build-cache\1b7999ad21b150147db45d82d71d7adfe283069d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\Pavan\.android\build-cache\22ed04143d90e994e1eba8dabe3467fa40dd6dc6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Pavan\.android\build-cache\b98cf18fc9af77b98e8116548a5fe5752d248cc9\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Pavan\.android\build-cache\19dd92586803cf9ffc3ce402c998e02c3ef8bc1c\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Pavan\.android\build-cache\e1ac718549b2cf2f3acc94970dab926c25a8dfe7\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\Pavan\.android\build-cache\a13c232490b35f00e7466521fef195b66e00df78\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Pavan\.android\build-cache\b704ea3d40aaae48f49f7684e8aa659dbaf341f7\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Pavan\.android\build-cache\88dacea26395bf1b8acddc4030bab47d9e0b16f3\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Pavan\.android\build-cache\8096667697990dddf8c32938bf9dcee2123199b6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Pavan\.android\build-cache\1985b698155fb189c04f773161fcc74b6424c54b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Pavan\.android\build-cache\38af52c33b01fb2f1d29de9f1419327f64ec29b8\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Pavan\.android\build-cache\e7a3f3170cb5353e2e7fdd78cebf5f823b301cb9\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Pavan\.android\build-cache\dbd849eadfbe16521bbd4a1ae12974e13c2f4e1e\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\vesit-v1-shared\Testing-App2\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Pavan\.android\build-cache\b98cf18fc9af77b98e8116548a5fe5752d248cc9\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Pavan\.android\build-cache\b98cf18fc9af77b98e8116548a5fe5752d248cc9\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Pavan\.android\build-cache\b98cf18fc9af77b98e8116548a5fe5752d248cc9\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Pavan\.android\build-cache\b98cf18fc9af77b98e8116548a5fe5752d248cc9\output\AndroidManifest.xml:19:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Pavan\.android\build-cache\19dd92586803cf9ffc3ce402c998e02c3ef8bc1c\output\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Pavan\.android\build-cache\19dd92586803cf9ffc3ce402c998e02c3ef8bc1c\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Pavan\.android\build-cache\19dd92586803cf9ffc3ce402c998e02c3ef8bc1c\output\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Pavan\.android\build-cache\19dd92586803cf9ffc3ce402c998e02c3ef8bc1c\output\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Pavan\.android\build-cache\19dd92586803cf9ffc3ce402c998e02c3ef8bc1c\output\AndroidManifest.xml:6:79-124

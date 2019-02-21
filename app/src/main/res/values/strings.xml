@@ -1,0 +1,129 @@
+
+
+<!--
+  ~ Created By Pavankumar.camp.Vesit Library
+  ~ Copyright(c) 2017
+  ~ No Content can me modified or used without any permission
+  ~ All Rights Reserved to VESIT LIBRARY AND DEVELOPERS
+  ~
+  -->
+
+<resources>
+    <string name="app_name">VESIT Library</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">HOME</string>
+    <string name="AboutUs">About App</string>
+    <string name="Time">Time</string>
+    <string name="AvailableBooks">Available Books</string>
+    <string name="fine">Fine</string>
+    <string name="Referance">Reference</string>
+    <string name="Referance_section">Reference Section</string>
+    <string name="etrx_department">Etrx Department</string>
+    <string name="dev">dev</string>
+    <string name="About_Developers">About Developers</string>
+    <string name="_10_00_am_to_10_30_am">10.00 am TO 10.30 am</string>
+    <string name="_12_00_pm_to_5_00_pm">12.00 pm TO 5.00 pm</string>
+    <string name="reference_section_timing">REFERENCE SECTION TIMING</string>
+    <string name="_8_30_am_to_6_00_pm">8.30 am TO 6.00 pm</string>
+    <string name="issue_section_timing">ISSUE SECTION TIMING</string>
+    <string name="_8_00_am_to_7_00_pm">8.00 am to 7.00 pm</string>
+    <string name="during_examinations">DURING EXAMINATIONS</string>
+    <string name="library_timing">LIBRARY TIMING</string>
+    <string name="visit">visit</string>
+
+    <!-- this is welcome screen names -->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT
+    </string>
+    <!-- this is welcome screen names -->
+    <string name="slide_1_title">Hello VESIT </string>
+    <string name="slide_1_desc">The Easiest way to stay connected with your Library !!</string>
+
+    <string name="slide_2_title">Issue Status</string>
+    <string name="slide_2_desc">Stay upated with your Issued books details !!</string>
+
+    <string name="slide_3_title">Search Book</string>
+    <string name="slide_3_desc">Search Availability of book over 20,000 books &amp; 1000 Journals at any time !!</string>
+
+    <string name="slide_4_title">Get Started</string>
+    <string name="slide_4_desc">Check out other features now !!!</string>
+
+    <!-- this is splash screen setup -->
+    <string name="name">logo</string>
+
+    <!-- this is about section -->
+    <string name="version">Version 1.0</string>
+    <string name="rate">Rate</string>
+    <string name="if_you_like_the_app_please_do_rate_it">If you like the app, please do rate it.</string>
+    <string name="changelog">Changelog</string>
+    <string name="licenses">Licenses</string>
+    <string name="support">Support</string>
+    <string name="report_bugs_feedback">Report Bugs/Feedback</string>
+    <string name="report_bugs_or_request_new_features">Report Bugs or request new features.</string>
+    <string name="about">About</string>
+
+    <string name="test"><html>
+                             <ul>
+                                 <b>All Rights Are Reserved To VESIT-Library and Developers No Content can be used without permission</b>
+                                 \n\n
+                                 This app is based non-commercial and non-profitable terms and free to use and developed for getting easy access to
+                                 VESIT-Library.
+                                 \n
+                                 No part of this App may be reproduced, distributed, or transmitted in any
+                                 form or by any means, without the prior written permission of the developers,
+                                 If found such case serious action will be taken by VESIT-Library. For permission
+                                 requests,feedback write to the developers, at:-
+                                 \n\n
+                                 <b>vesitlibrary.app@gmail.com</b>
+                                 \n\n
+                                 Copyright © 2017 by CAMP
+                             </ul>
+                       </html>
+    </string>
+    <string name="license_notice"></string>
+    <string name="chnagelog1"><html><ul>
+        1.First Release
+        \n
+        2.Initial Commit
+        \n
+        3.User Can get his/her issued book details
+        \n
+        4.User can search for availability of library book
+    </ul>
+    </html>
+
+
+    </string>
+    <string name="feedback"> Hello Evryone !! \n \nThis is our first launch so it might be buggy so please support us and give your valuable feedback and suggestions at <b>vesitlibrary.app@gmail.com</b> </string>
+
+    <string name="booknotice">Please Note that getting data of book depends on server Connectivity and your internet speed \n have patience :} </string>
+
+    <string name="one">one</string>
+
+    <string name="three">three</string>
+
+    <string name="two">two</string>
+    <string name="base0">aHR0cDovLzE5Mi4xNjguMC4xMDIvdGVzdC92ZXNpdC92YWxpZGF0ZS9sb2dpbi5waHAvP2ttYXA9</string>
+    <string name="base1">abc</string>
+    <string name="ck0">#CT$#F^756B</string>
+    <string name="ck1">f#ca</string>
+    <!-- this is disclaimer section -->
+    <string name="disclaimer_title">Disclaimer</string>
+    <string name="disclaimer_body_1">1. During Examinations there can be discrepancy in the count of books because of manual error .</string>
+    <string name="disclaimer_body_2">3. No one can in anyway modify the data in the App.</string>
+    <string name="disclaimer_body_3">2. Students can only view available or issued books. No one can issue or return books using this App.</string>
+    <string name="reference_section">Reference Section</string>
+    <string name="username_vesituser">Username:vesituser</string>
+    <string name="access_engineering_mcgraw_hill">Access Engineering McGraw Hill</string>
+    <string name="search_extc_book_here">Search Extc Book Here…</string>
+    <string name="communicate_with_us">Communicate With Us</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="reference">Reference</string>
+    <string name="issued_book_status">Issued Book Status</string>
+</resources>

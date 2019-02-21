@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\fragment_about_dev.xml",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\layout-v21\\fragment_about_dev.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\vesit-v1-shared\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\fragment_about_dev.xml",
+        "source": "C:\\xampp\\htdocs\\vesit-v1-shared\\Testing-App2\\app\\src\\main\\res\\layout-v21\\fragment_about_dev.xml"
+    }
+]

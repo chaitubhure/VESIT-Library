@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\vesit-v1-shared\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\xampp\\htdocs\\vesit-v1-shared\\Testing-App2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

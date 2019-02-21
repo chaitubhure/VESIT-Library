@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_first.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\ic_first.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\vesit-v1-shared\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_forth.png",
+        "source": "C:\\xampp\\htdocs\\vesit-v1-shared\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\ic_forth.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\vesit-v1-shared\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_third.png",
+        "source": "C:\\xampp\\htdocs\\vesit-v1-shared\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\ic_third.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_forth.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\ic_forth.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_second.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\ic_second.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\vesit-v1-shared\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_first.png",
+        "source": "C:\\xampp\\htdocs\\vesit-v1-shared\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\ic_first.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\vesit-v1-shared\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back.png",
+        "source": "C:\\xampp\\htdocs\\vesit-v1-shared\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\vesit-v1-shared\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_second.png",
+        "source": "C:\\xampp\\htdocs\\vesit-v1-shared\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\ic_second.png"
+    },
+    {
+        "merged": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_third.png",
+        "source": "C:\\Users\\Pavan\\AndroidStudioProjects\\Testing-App2\\app\\src\\main\\res\\drawable-mdpi\\ic_third.png"
+    }
+]
