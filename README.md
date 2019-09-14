@@ -5,12 +5,12 @@ They can also go through the digital reference section and know about the librar
 
 ### Some screenshots from the application
 
-<img src="https://github.com/chaitubhure/VESIT-Library/blob/master/vesit_intopage.png" width="156">
-<img src="https://github.com/chaitubhure/VESIT-Library/blob/master/vesit_timingpage.png" width="156">
-<img src="https://github.com/chaitubhure/VESIT-Library/blob/master/vesit_navigationpage.png" width="156">
-<img src="https://github.com/chaitubhure/VESIT-Library/blob/master/vesit_issuedbook.png" width="156">
-<img src="https://github.com/chaitubhure/VESIT-Library/blob/master/vesit_booklist.png" width="156">
-
+<p float="left">
+<img src="https://github.com/chaitubhure/VESIT-Library/blob/master/vesit_navigationpage.png" width="250">
+<img src="https://github.com/chaitubhure/VESIT-Library/blob/master/vesit_issuedbook.png" width="250">
+<img src="https://github.com/chaitubhure/VESIT-Library/blob/master/vesit_booklist.png" width="250">
+                                                                                                  </p>
+                                                                                                  
 ### Technology and platfroms
 
 This project makes use of the [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) platform with a free access to GPU for the image processing tasks. It took 3 hours to train the complete model on Colab and the other technologies used in this project are as follows:
