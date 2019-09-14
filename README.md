@@ -3,11 +3,13 @@
 The VESIT-Library Android Application aims to integrate the library workforce along with new age technology. This application caters to the most common need of the students associated with the library. Just by entering your library card number, the student can view all the varied varieties of books and their respective issued books. 
 They can also go through the digital reference section and know about the library timings.
 
-![Picture of a sunset](https://github.com/chaitubhure/HARRISON_tagprediction/blob/master/sunset.jpg)
+### Some screenshots from the application
 
-Multi-label classification | User-based tags
--------------------------- | ---------------
-sunset, beach, sea | sunset, beach, **vacation, holiday, romantic, bliss, vacationgoals**
+<img src="https://github.com/chaitubhure/VESIT-Library/blob/master/vesit_intopage.png" width="156">
+<img src="https://github.com/chaitubhure/VESIT-Library/blob/master/vesit_timingpage.png" width="156">
+<img src="https://github.com/chaitubhure/VESIT-Library/blob/master/vesit_navigationpage.png" width="156">
+<img src="https://github.com/chaitubhure/VESIT-Library/blob/master/vesit_issuedbook.png" width="156">
+<img src="https://github.com/chaitubhure/VESIT-Library/blob/master/vesit_booklist.png" width="156">
 
 ### Technology and platfroms
 
