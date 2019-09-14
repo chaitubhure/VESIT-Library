@@ -10,7 +10,11 @@ They can also go through the digital reference section and know about the librar
 <img src="https://github.com/chaitubhure/VESIT-Library/blob/master/vesit_issuedbook.png" width="280">
 <img src="https://github.com/chaitubhure/VESIT-Library/blob/master/vesit_booklist.png" width="280">
                                                                                                   </p>
-                                                                                                  
+
+### Sample video of the first version of the application
+
+<video src="https://www.youtube.com/watch?v=Xazd1doCDnE&feature=youtu.be" width="320" height="200" controls preload></video>
+
 ### Technology and platfroms
 
 The android application is built on Android Studio and the transaction in the app takes places through application user interface (api). Android Studio is the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA. On top of IntelliJ's powerful code editor and developer tools, Android Studio offers even more features that enhance your productivity when building Android apps. The database server is present in library which is in the private network of VESIT.  The api is based on PHP and MSSQL SERVER. The app communicates with api through url on http server.
