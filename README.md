@@ -26,5 +26,5 @@ The android application is built on Android Studio and the transaction in the ap
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/chaitubhure/HARRISON_tagprediction/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/chaitubhure/VESIT-Library/blob/master/LICENSE) file for details
 
